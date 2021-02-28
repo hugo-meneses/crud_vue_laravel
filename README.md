@@ -10,4 +10,4 @@ Instruções:
 - php artisan migrate:refresh --seed
 - php artisan serve
 - npm run watch
-- Criar o usuario e senha para acessar o sistema de cadastro. Estará disponivel os menus: Login e Register na página principal
+- Criar o usuario e senha para acessar o sistema de cadastro. Estará disponível os menus: Login e Register na página principal
