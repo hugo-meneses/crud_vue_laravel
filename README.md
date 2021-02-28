@@ -2,6 +2,7 @@ Sistema de cadastro de estudantes
 
 Instruções:
 
+- git clone https://github.com/hugo-meneses/crud_vue_laravel.git
 - composer update
 - php artisan key:generate
 - .env (adicionar o nome da banco de dados)
