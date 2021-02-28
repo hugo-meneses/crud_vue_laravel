@@ -32,11 +32,11 @@ class EstudanteController extends Controller
         $estudante->email = request()->email;
         $estudante->telefone = request()->telefone;
         $estudante->update();
-        return ('Atualizado com Sucesso');
+        return ('Atualizado com Sucesso!');
     }
 
     public function deletar_estudante($id){
         $estudante = Estudante::find($id)->delete();
-        return ('Registro excluído com Sucesso');
+        return ('Registro excluído com Sucesso!');
     }
 }
