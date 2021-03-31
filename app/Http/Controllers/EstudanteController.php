@@ -7,6 +7,7 @@ use App\Models\Model\Estudante;
 
 class EstudanteController extends Controller
 {
+    
     public function salvar_estudante(){
         $estudante = new Estudante;
         $estudante->nome = request()->nome;
