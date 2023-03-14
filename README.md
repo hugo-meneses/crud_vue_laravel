@@ -11,4 +11,4 @@ Instruções:
 - php artisan serve
 - npm run watch
 - Criar o usuario e senha para acessar o sistema de cadastro. 
-Estará disponível os menus: Login e Register na página principal
+- Estará disponível os menus: Login e Register na página principal
