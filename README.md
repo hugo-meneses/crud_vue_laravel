@@ -1,4 +1,4 @@
-# crud_vue_laravel
+# Vue Laravel
 Sistema de cadastro de estudantes
 
 Instruções:
